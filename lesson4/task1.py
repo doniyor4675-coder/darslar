@@ -1,19 +1,19 @@
 # #task_1
-# a, b = 5, 5
-# print('Natija quyidagicha: ', a + b)
+a, b = 5, 5
+print('Natija quyidagicha: ', a + b)
 
 # #task_2
-# def addinner(x, y):
-#     return x + y
-# print(addinner(5, 3))
+def addinner(x, y):
+    return x + y
+print(addinner(5, 3))
 
 # #bu oddiyrog'i
-# x, y = 5, 3
-# print(x + y)
+x, y = 5, 3
+print(x + y)
 
 # #task_3
-# x, y = 1200, 30 #berilgan sonlar
-# print(x / y) #bu yerda 1200/30 ning qiymatini ekranga chiqaryapti
+x, y = 1200, 30 #berilgan sonlar
+print(x / y) #bu yerda 1200/30 ning qiymatini ekranga chiqaryapti
 
 #task_4
 result = sum([3, 5, 7])
